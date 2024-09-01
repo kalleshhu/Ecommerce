@@ -4,7 +4,7 @@
 <img src="./src/assets/images/react-typescript-template.png"/>
 </div>
 
-## Welcome to my React template
+## Welcome to my E-Commerse Website
 
 This template is built with the following technologies:
 
@@ -77,4 +77,4 @@ This project is licensed under the ISC License.
 
 ## Acknowledgements
 
-Thank you for using this template. I hope it helps you build your next project with ease.
+Thank you for using this project. I hope it helps you build your next project with easy.
