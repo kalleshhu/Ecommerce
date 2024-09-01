@@ -1,4 +1,4 @@
-# React-Typescript-Template
+# E-Commerse Website By KALLESH
 
 <div align="center">
 <img src="./src/assets/images/react-typescript-template.png"/>
