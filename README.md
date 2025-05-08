@@ -71,10 +71,6 @@ npm run build
 
 Please feel free to contribute to this project by submitting issues or pull requests.
 
-## License
-
-This project is licensed under the ISC License.
-
 ## Acknowledgements
 
 Thank you for using this project. I hope it helps you build your next project with easy.
